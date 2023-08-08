@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Krina Patel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php,bootstrap
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me krina03062003@gmail.com
+- 📫 How to reach me krinapatel03062003@gmail.com
 
 <!---
 362003/362003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
