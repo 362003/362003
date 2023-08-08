@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @362003
+- 👋 Hi, I’m Krina Patel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php,bootstrap
 - 💞️ I’m looking to collaborate on java
