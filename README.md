@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krina Patel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on java
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on fullstack developer
 - 📫 How to reach me krinapatel03062003@gmail.com
 
 <!---
